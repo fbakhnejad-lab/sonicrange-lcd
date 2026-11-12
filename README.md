@@ -1,6 +1,6 @@
 # sonicrange-lcd
 # How It Works
-`path/to/your/circuit-image.png`
+![Soil Moisture Sensor Circuit](soil_moisture.png)
 ## 1. Ultrasonic Wave Transmission
 * The Arduino Uno commands the HC-SR04 sensor to emit a high-frequency sound wave through the air[cite: 1, 6].
 * This acoustic burst travels outward from the module until it collides with an obstacle in its path.
